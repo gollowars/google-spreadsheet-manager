@@ -44,7 +44,7 @@ Create a new google spreadsheet object.
 
 
 ### auth
-void SpreadSheetManager.auth() -> void
+SpreadSheetManager.auth() -> void
 
 ### getSheets
 SpreadSheetManager.getSheets() -> Array
