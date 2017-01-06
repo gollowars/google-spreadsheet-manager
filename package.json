@@ -14,5 +14,10 @@
   "dependencies": {
     "fs-extra": "^1.0.0",
     "google-spreadsheet": "^2.0.3"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gollowars/google-spreadsheet-manager"
   }
 }
